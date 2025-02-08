@@ -1,0 +1,4 @@
+--patch-module
+br.com.curso=_
+--add-reads
+br.com.curso=ALL-UNNAMED
