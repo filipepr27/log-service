@@ -1,8 +1,7 @@
-C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\adapters\CSVLogAdapter.java
-C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\adapters\DBLogAdapter.java
-C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\adapters\JSONLogAdapter.java
-C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\enums\LogType.java
-C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\interfaces\ILog.java
+C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\log\CSVLogAdapter.java
+C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\log\DBLogAdapter.java
+C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\log\ILog.java
+C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\log\JSONLogAdapter.java
+C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\log\LogService.java
+C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\log\LogType.java
 C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\Main.java
-C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\br\com\curso\services\LogService.java
-C:\Users\OPTSOL Academy Kids\Documents\Pessoal\Programas\repos\log-service\pj-logger\src\main\java\module-info.java

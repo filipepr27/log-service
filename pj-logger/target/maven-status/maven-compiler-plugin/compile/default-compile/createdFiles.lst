@@ -1,8 +1,7 @@
 br\com\curso\Main.class
-br\com\curso\services\LogService.class
-br\com\curso\adapters\JSONLogAdapter.class
-module-info.class
-br\com\curso\adapters\CSVLogAdapter.class
-br\com\curso\adapters\DBLogAdapter.class
-br\com\curso\interfaces\ILog.class
-br\com\curso\enums\LogType.class
+br\com\curso\log\CSVLogAdapter.class
+br\com\curso\log\LogType.class
+br\com\curso\log\DBLogAdapter.class
+br\com\curso\log\ILog.class
+br\com\curso\log\JSONLogAdapter.class
+br\com\curso\log\LogService.class
