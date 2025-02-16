@@ -1,4 +1,4 @@
-package br.com.curso.enums;
+package br.com.curso.log;
 
 public enum LogType {
     CSV,

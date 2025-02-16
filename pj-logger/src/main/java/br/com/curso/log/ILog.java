@@ -1,5 +1,5 @@
-package br.com.curso.interfaces;
+package br.com.curso.log;
 
-public interface ILog {
+interface ILog {
     void registrar(String operacao, String nome, String usuario);
 }

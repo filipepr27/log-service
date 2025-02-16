@@ -1,6 +1,5 @@
-package br.com.curso.adapters;
+package br.com.curso.log;
 
-import br.com.curso.interfaces.ILog;
 import com.opencsv.CSVWriter;
 import com.opencsv.ICSVWriter;
 
@@ -10,7 +9,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class CSVLogAdapter implements ILog {
+final class CSVLogAdapter implements ILog {
 
     private static final String PATH =  "log.csv";
     private static final String DELIMITADOR = ";";

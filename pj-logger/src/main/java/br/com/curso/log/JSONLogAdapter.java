@@ -1,6 +1,5 @@
-package br.com.curso.adapters;
+package br.com.curso.log;
 
-import br.com.curso.interfaces.ILog;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -11,7 +10,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class JSONLogAdapter implements ILog {
+final class JSONLogAdapter implements ILog {
 
     private static final String PATH = "log.json";
 
