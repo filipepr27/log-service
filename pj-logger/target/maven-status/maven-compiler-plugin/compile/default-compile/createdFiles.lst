@@ -1,7 +1,0 @@
-br\com\curso\Main.class
-br\com\curso\log\CSVLogAdapter.class
-br\com\curso\log\LogType.class
-br\com\curso\log\DBLogAdapter.class
-br\com\curso\log\ILog.class
-br\com\curso\log\JSONLogAdapter.class
-br\com\curso\log\LogService.class
