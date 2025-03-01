@@ -21,6 +21,7 @@ final class JSONLogAdapter implements ILog {
         JSONObject logJson = new JSONObject();
         logJson.put("Operação", operacao);
         logJson.put("Nome", nome);
+        logJson.put("Usuário", usuario);
         logJson.put("Data", dataAtual.format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
         logJson.put("Hora", dataAtual.format(DateTimeFormatter.ofPattern("HH:mm:ss")));
 
